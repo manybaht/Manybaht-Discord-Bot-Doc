@@ -6,19 +6,19 @@
 ## /play
 
 !!! info "/play"
-    `/play music:<ลิงก์เพลง>` ทำการเล่นเพลง
+    `/play query:<ลิงก์เพลง>` ทำการเล่นเพลง
 
 !!! example "ตัวอย่างการใช้งาน"
-    * `/play music:หลายบาท` (หากอยากให้เล่นเป๊ะ แปะลิงก์จะดีที่สุด เนื่องจากเล่นใช้การค้นหา บอทจะค้นหาจาก Youtube Music)
-    * `/play music:https://youtu.be/pqBp2uIrKHI`
-    * `/play music:https://youtube.com/playlist?list=PLb1F5JEwvOv4zEQaeix2QsGgszSxWljx-`
-    * `/play music:https://open.spotify.com/track/3CMX2HunKRoyAUZp6paH3n?si=e9228d8a52ca49e3`
-    * `/play music:https://open.spotify.com/artist/1IRkXpCwl8IdD5EMClezbo`
-    * `/play music:https://open.spotify.com/album/4cS21mg8pR9uf6WVV1N2A4`
-    * `/play music:https://www.tiktok.com/@manybaht/video/7023359868937587969`
-    * `/play music:https://www.p_____b.com/view_video.php?viewkey=ไอดีวิดีโอ` (ต้อง .com เท่านั้น ห้าม .org)
-    * `/play music:https://www.twitch.tv/laibaht`
-    * `/play music:https://www.bilibili.tv/en/video/ไอดีวิดีโอ`
+    * `/play query:หลายบาท` (หากอยากให้เล่นเป๊ะ แปะลิงก์จะดีที่สุด เนื่องจากเล่นใช้การค้นหา บอทจะค้นหาจาก Youtube Music)
+    * `/play query:https://youtu.be/pqBp2uIrKHI`
+    * `/play query:https://youtube.com/playlist?list=PLb1F5JEwvOv4zEQaeix2QsGgszSxWljx-`
+    * `/play query:https://open.spotify.com/track/3CMX2HunKRoyAUZp6paH3n?si=e9228d8a52ca49e3`
+    * `/play query:https://open.spotify.com/artist/1IRkXpCwl8IdD5EMClezbo`
+    * `/play query:https://open.spotify.com/album/4cS21mg8pR9uf6WVV1N2A4`
+    * `/play query:https://www.tiktok.com/@manybaht/video/7023359868937587969`
+    * `/play query:https://www.p_____b.com/view_video.php?viewkey=ไอดีวิดีโอ` (ต้อง .com เท่านั้น ห้าม .org)
+    * `/play query:https://www.twitch.tv/laibaht`
+    * `/play query:https://www.bilibili.tv/en/video/ไอดีวิดีโอ`
 
 ## /skip
 
@@ -112,26 +112,26 @@
 ## /next
 
 !!! info "/next"
-    `/next music:<ลิงก์เพลง>` เพิ่มเพลงให้มันอยู่คิวถัดไป (ลัดคิว)
+    `/next query:<ลิงก์เพลง>` เพิ่มเพลงให้มันอยู่คิวถัดไป (ลัดคิว)
 
 !!! example "ตัวอย่างการใช้งาน"
-    * `/next music:https://youtu.be/pqBp2uIrKHI`
-    * `/next music:https://youtube.com/playlist?list=PLb1F5JEwvOv4zEQaeix2QsGgszSxWljx-`
-    * `/next music:https://open.spotify.com/track/3CMX2HunKRoyAUZp6paH3n?si=e9228d8a52ca49e3`
-    * `/next music:https://open.spotify.com/artist/1IRkXpCwl8IdD5EMClezbo`
-    * `/next music:https://open.spotify.com/album/4cS21mg8pR9uf6WVV1N2A4`
+    * `/next query:https://youtu.be/pqBp2uIrKHI`
+    * `/next query:https://youtube.com/playlist?list=PLb1F5JEwvOv4zEQaeix2QsGgszSxWljx-`
+    * `/next query:https://open.spotify.com/track/3CMX2HunKRoyAUZp6paH3n?si=e9228d8a52ca49e3`
+    * `/next query:https://open.spotify.com/artist/1IRkXpCwl8IdD5EMClezbo`
+    * `/next query:https://open.spotify.com/album/4cS21mg8pR9uf6WVV1N2A4`
 
 ## /skipplay
 
 !!! info "/skipplay"
-    `/skipplay music:<ลิงก์เพลง>` เพิ่มเพลงให้มันอยู่คิวถัดไปและข้ามไปเพลงที่เพิ่มทันที (ลัดคิวและข้ามเพลงอัตโนมัติ)
+    `/skipplay query:<ลิงก์เพลง>` เพิ่มเพลงให้มันอยู่คิวถัดไปและข้ามไปเพลงที่เพิ่มทันที (ลัดคิวและข้ามเพลงอัตโนมัติ)
 
 !!! example "ตัวอย่างการใช้งาน"
-    * `/skipplay music:https://youtu.be/pqBp2uIrKHI`
-    * `/skipplay music:https://youtube.com/playlist?list=PLb1F5JEwvOv4zEQaeix2QsGgszSxWljx-`
-    * `/skipplayt music:https://open.spotify.com/track/3CMX2HunKRoyAUZp6paH3n?si=e9228d8a52ca49e3`
-    * `/skipplay music:https://open.spotify.com/artist/1IRkXpCwl8IdD5EMClezbo`
-    * `/skipplay music:https://open.spotify.com/album/4cS21mg8pR9uf6WVV1N2A4`
+    * `/skipplay query:https://youtu.be/pqBp2uIrKHI`
+    * `/skipplay query:https://youtube.com/playlist?list=PLb1F5JEwvOv4zEQaeix2QsGgszSxWljx-`
+    * `/skipplayt query:https://open.spotify.com/track/3CMX2HunKRoyAUZp6paH3n?si=e9228d8a52ca49e3`
+    * `/skipplay query:https://open.spotify.com/artist/1IRkXpCwl8IdD5EMClezbo`
+    * `/skipplay query:https://open.spotify.com/album/4cS21mg8pR9uf6WVV1N2A4`
 
 ## /shuffle
 
